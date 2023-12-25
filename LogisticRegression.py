@@ -12,6 +12,8 @@ Created on Fri Dec 15 18:18:42 2023
 @author: admin
 """
 
+#new edite
+
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
